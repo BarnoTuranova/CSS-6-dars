@@ -1,0 +1,5 @@
+body{
+    background: radial-gradient( red, yellow, green);
+    background-repeat: no-repeat;
+    height: 1000px;
+}

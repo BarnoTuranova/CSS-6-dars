@@ -1,0 +1,18 @@
+.barno{
+    background: linear-gradient(green,blue,red);
+    height: 500px;
+}
+h1{
+    text-align: center;
+    color: white;
+    line-height: 500px;
+}
+.diyora{
+    background: linear-gradient(250deg, purple,blue,green,yellow);
+    height: 500px;
+}
+h1{
+    text-align: center;
+    color: white;
+    line-height: 500px;
+}

@@ -1,0 +1,56 @@
+.barno{
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    background-color: red;
+    box-shadow: blue 5px 10px 30px,10px -10px 30px;
+    position: absolute;
+}
+.barno1{
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    background-color: red;
+    box-shadow: blue 25px 3px 30px;
+    position: absolute;
+    left: 200px;
+}
+.barno2{
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    background-color: red;
+    box-shadow: blue 30px 15px 20px;
+    position: absolute;
+    left: 400px;
+}
+.barno3{
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    background-color: red;
+    box-shadow: blue 10px 10px 20px inset,blue -10px -10px
+     20px inset;
+    position: absolute;
+    top: 200px;
+}
+.barno4{
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    background-color: red;
+    box-shadow: blue inset 20px 10px 20px,blue 20px -10px 20px inset;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+}
+.barno5{
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    background-color: red;
+    box-shadow: blue inset 20px 10px 20px;
+    position: absolute;
+    top: 200px;
+    left: 400px;
+ }

@@ -1,0 +1,217 @@
+.barno{
+    width: 160px;
+    height: 100px;
+    border: 2px solid palevioletred;
+    background-color: lightblue;
+    color: palevioletred;
+}
+.barno1{
+    width: 160px;
+    height: 150px;
+    border: 2px solid palevioletred;
+    background-color: lightblue;
+    color: palevioletred;
+}
+.barno2{
+    width: 160px;
+    height: 150px;
+    border: 2px solid palevioletred;
+    background-color: lightblue;
+    color: palevioletred;
+}
+.barno3{
+    width: 160px;
+    height: 150px;
+    border: 2px solid palevioletred;
+    background-color: lightblue;
+    color: palevioletred;
+}
+.barno4{
+    width: 160px;
+    height: 150px;
+    border: 2px solid palevioletred;
+    background-color: lightblue;
+    color: palevioletred;
+}
+.diyora{
+    width: 160px;
+    height: 100px;
+    border: 2px solid palevioletred;
+    background-color: palevioletred;
+    color: whitesmoke;
+    position: relative;
+    left: 163px;
+    bottom: 718px;
+    text-align: center;
+}
+.diyora1{
+    width: 160px;
+    height: 100px;
+    border: 2px solid palevioletred;
+    background-color: palevioletred;
+    color: whitesmoke;
+    position: relative;
+    left: 322px;
+    bottom: 821px;
+    text-align: center;
+}
+.diyora2{
+    border:2px solid palevioletred;
+    width: 160px;
+    height: 150px;
+    position: absolute;
+    bottom: 537px;
+    left: 170px;
+}
+.diyora21{
+    border: 5px solid blue;
+    background-color: orange;
+    width: 120px;
+    height: 120px;
+    border-radius: 20px;
+    box-shadow: dimgrey 10px 10px;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+.diyora3{
+    border:2px solid palevioletred;
+    width: 160px;
+    height: 150px;
+    position: absolute;
+    bottom: 384px;
+    left: 170px;
+}
+.diyora23 {
+    border: 5px solid blue;
+    background-color: orange;
+    width: 120px;
+    height: 120px;
+    border-radius: 20px;
+    box-shadow:dimgrey 10px 10px inset;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+.diyora4{
+    border:2px solid palevioletred;
+    width: 160px;
+    height: 150px;
+    position: absolute;
+    bottom: 231px;
+    left: 170px;
+}
+.diyora24 {
+    border: 5px solid blue;
+    background-color: orange;
+    width: 120px;
+    height: 120px;
+    border-radius: 20px;
+    box-shadow:dimgrey 10px 0 10px;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+.diyora5{
+    border:2px solid palevioletred;
+    width: 160px;
+    height: 150px;
+    position: absolute;
+    bottom: 78px;
+    left: 170px;
+}
+.diyora25{
+    border: 5px solid blue;
+    background-color: orange;
+    width: 120px;
+    height: 120px;
+    border-radius: 20px;
+    box-shadow:dimgrey 10px 0 10px inset;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+.nasiba{
+    width: 160px;
+    height: 100px;
+    border: 2px solid palevioletred;
+    background-color: palevioletred;
+    color: whitesmoke;
+    position: relative;
+    left: 326px;
+    bottom: 821px;
+    text-align: center;
+}
+.nasiba2{
+    border:2px solid palevioletred;
+    width: 160px;
+    height: 150px;
+    position: absolute;
+    bottom: 537px;
+    left: 333px;
+}
+.nasiba21{
+    border: 5px solid blue;
+    background-color: orange;
+    width: 120px;
+    height: 120px;
+    box-shadow: dimgrey 10px 10px;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+.nasiba3{
+    border:2px solid palevioletred;
+    width: 160px;
+    height: 150px;
+    position: absolute;
+    bottom: 383px;
+    left: 333px;
+}
+.nasiba23 {
+    border: 5px solid blue;
+    background-color: orange;
+    width: 120px;
+    height: 120px;
+    box-shadow:dimgrey 10px 10px inset;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+.nasiba4{
+    border:2px solid palevioletred;
+    width: 160px;
+    height: 150px;
+    position: absolute;
+    bottom: 232px;
+    left: 333px;
+}
+.nasiba24 {
+    border: 5px solid blue;
+    background-color: orange;
+    width: 120px;
+    height: 120px;
+    box-shadow:dimgrey 10px 0 10px;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+.nasiba5{
+    border:2px solid palevioletred;
+    width: 160px;
+    height: 150px;
+    position: absolute;
+    bottom: 80px;
+    left: 333px;
+}
+.nasiba25{
+    border: 5px solid blue;
+    background-color: orange;
+    width: 120px;
+    height: 120px;
+    box-shadow:dimgrey 10px 0 10px inset;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+

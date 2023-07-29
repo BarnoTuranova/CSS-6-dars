@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+.barno{
+    width: 300px;
+    height: 200px;
+    background: linear-gradient(red,yellow,green,blue);
+}
+h1{
+    color: white;
+    text-align: center;
+}
